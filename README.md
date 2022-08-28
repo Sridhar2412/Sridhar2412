@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey Im Sridhar Srinivasan 👋
 
 <!--
 **Sridhar2412/Sridhar2412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
