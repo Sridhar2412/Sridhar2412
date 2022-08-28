@@ -25,6 +25,9 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sridhar2412&show_icons=true&theme=light&line_height=27" alt="Sridhar's github stats"/>
      </a>
      <br/>
+     
+![](https://komarev.com/ghpvc/?username=Sridhar2412&color=blue)
+
 
 
 <!--
