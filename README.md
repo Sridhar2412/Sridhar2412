@@ -2,8 +2,6 @@
 <a href="https://www.linkedin.com/in/sridhar24">
 <a href="https://linkedin.com/in/sridhar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sridhar24" height="30" width="40" /></a>
 <br/>
-<a href=https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logoHackerRank&logoColor=white)](https://www.hackerrank.com/Sridhar_24></a>
-<br/>
 <br/>
 
 **Languages and Tools:**  
