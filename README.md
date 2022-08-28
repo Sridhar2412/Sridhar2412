@@ -1,7 +1,9 @@
 ### Hey Im Sridhar Srinivasan 👋
 <a href="https://www.linkedin.com/in/sridhar24">
 <img align="left" alt="Sridhar's Linkdein" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br/>
 
+<br/>
 
 **Languages and Tools:**  
 
