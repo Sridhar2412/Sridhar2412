@@ -3,9 +3,10 @@
 <a href="https://linkedin.com/in/sridhar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sridhar24" height="30" width="40" /></a>
 <br/>
 <br/>
-<a href="https://www.hackerrank.com/Sridhar_24" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Sridhar_24" ></a>
-  <a href="https://leetcode.com/Sridhar2412" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Sridhar2412"></a>
+<a href="https://www.hackerrank.com/Sridhar_24" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Sridhar_24" ></a> &nbsp
+<a href="https://leetcode.com/Sridhar2412" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Sridhar2412"></a>
 <br/>
+</br>
     
 **Languages and Tools:**  
 
