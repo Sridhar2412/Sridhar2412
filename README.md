@@ -4,8 +4,9 @@
 <br/>
 <br/>
 <a href="https://www.hackerrank.com/Sridhar_24" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Sridhar_24" ></a>
-  <a href="https://leetcode.com/Sridhar2412" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Sridhar2412" />
+  <a href="https://leetcode.com/Sridhar2412" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Sridhar2412"></a>
 <br/>
+    
 **Languages and Tools:**  
 
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
