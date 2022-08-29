@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/sridhar24">
 <a href="https://linkedin.com/in/sridhar24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sridhar24" height="30" width="40" /></a>
 <br/>
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+<br/>
 <br/>
 
 **Languages and Tools:**  
